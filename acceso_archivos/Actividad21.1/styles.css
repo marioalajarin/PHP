@@ -1,0 +1,17 @@
+body{
+    background-color: rgb(56, 56, 56);
+}
+
+h1,h3,p{
+    text-align: center;
+    margin-left: 20%;
+    margin-right: 20%;
+    color: white;}
+
+h1{
+    padding: 25px;
+}
+
+h3{
+    padding:15px;
+}

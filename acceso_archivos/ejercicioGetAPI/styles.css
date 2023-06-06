@@ -1,0 +1,13 @@
+body{
+    background-color: rgb(85, 85, 85);
+    color: white;
+}
+
+p,h2{
+    text-align: center;
+    margin: 50px;
+}
+
+img{
+    margin-left: 46%;
+}
